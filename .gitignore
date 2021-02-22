@@ -1,0 +1,12 @@
+node_modules
+
+yarn.lock
+package-lock.json
+
+*.zip
+
+dev.env
+test.env
+
+__tests__/coverage
+yarn-error.log
