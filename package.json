@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Api service IMDB",
   "main": "index.js",
-  "repository": "https://github.com/Rentuas/imdb-api.git",
+  "repository": "https://github.com/Rentuas/imdb.git",
   "author": "Ivan Sautner",
   "license": "MIT",
   "scripts": {
